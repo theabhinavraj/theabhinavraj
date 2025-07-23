@@ -1,4 +1,4 @@
-![logo](Black Minimalist Linkedin Banner.png)
+![logo]([Black Minimalist Linkedin Banner.png])
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
