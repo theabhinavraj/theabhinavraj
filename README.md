@@ -1,3 +1,4 @@
+![logo](https://github.com/theabhinavraj/Abhinav/blob/main/Black%20Minimalist%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
